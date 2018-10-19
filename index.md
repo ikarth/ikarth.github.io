@@ -1,11 +1,10 @@
 # Isaac Karth
 
-<span style="text-align:center">
-  
-[isaackarth.com](https://isaackarth.com/)   
-[procedural-generation.tumblr.com](https://procedural-generation.tumblr.com)   
+### Websites
+**[isaackarth.com](https://isaackarth.com/)**   
+**[procedural-generation.tumblr.com](https://procedural-generation.tumblr.com)**   
 
-</span>
+
 
 ## Curriculum Vitae
 
