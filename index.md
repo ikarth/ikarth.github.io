@@ -1,4 +1,4 @@
-# Isaac Karth
+# Curriculum Vitae
 
 ## Education
 
