@@ -2,14 +2,14 @@
 
 ## Education
 
-2017–present(Current) 
-PhD Student Computational Media, University of California, Santa Cruz, Santa Cruz, CA.
+2017 – present(Current) 
+**PhD Student Computational Media**, University of California, Santa Cruz, Santa Cruz, CA.
 
 2013 
-MFA Arts and Technology, University of Texas at Dallas, Richardson, TX. 
+**MFA Arts and Technology**, University of Texas at Dallas, Richardson, TX. 
 
 2006 
-BFA Digital Media, Kendall College of Art and Design of Ferris State University, Grand Rapids, MI.
+**BFA Digital Media**, Kendall College of Art and Design of Ferris State University, Grand Rapids, MI.
 
 ## Peer-Reviewed Publications
 
